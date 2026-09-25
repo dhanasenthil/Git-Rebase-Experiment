@@ -1,4 +1,3 @@
 Login Page
-Wrong Login Information
-Username 
+Username
 Password
